@@ -1,0 +1,6 @@
+c:\users\steffen\documents\visual studio 2015\Projects\SelfHostServiceDemo\SelfHostServiceDemo\bin\Debug\SelfHostServiceDemo.exe.config
+c:\Users\Steffen\Documents\Visual Studio 2015\Projects\SelfHostServiceDemo\SelfHostServiceDemo\bin\Debug\SelfHostServiceDemo.exe
+c:\Users\Steffen\Documents\Visual Studio 2015\Projects\SelfHostServiceDemo\SelfHostServiceDemo\bin\Debug\SelfHostServiceDemo.pdb
+c:\Users\Steffen\Documents\Visual Studio 2015\Projects\SelfHostServiceDemo\SelfHostServiceDemo\obj\Debug\SelfHostServiceDemo.csprojResolveAssemblyReference.cache
+c:\Users\Steffen\Documents\Visual Studio 2015\Projects\SelfHostServiceDemo\SelfHostServiceDemo\obj\Debug\SelfHostServiceDemo.exe
+c:\Users\Steffen\Documents\Visual Studio 2015\Projects\SelfHostServiceDemo\SelfHostServiceDemo\obj\Debug\SelfHostServiceDemo.pdb
